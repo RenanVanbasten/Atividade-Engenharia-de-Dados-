@@ -5,7 +5,7 @@ Este projeto consiste em um pipeline **ETL (Extract, Transform, Load)** desenvol
 O objetivo principal é extrair a série temporal da **taxa de desocupação do Brasil** (com foco em Pernambuco) a partir da API do IBGE e armazenar esses dados de forma estruturada no **MongoDB Atlas**.
 
 
-### Equipe:  Fabiana Carolie e Renan Vanbasten
+### Equipe:  Fabiana Caroline e Renan Vanbasten
 ---
 
 ## 🎯 Funcionalidades
